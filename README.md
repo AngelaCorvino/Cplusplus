@@ -34,3 +34,7 @@ This course is prepared using the tools and the `Cpp20` image from [DevScripts](
 ## Topics to be considered ?
 
 ?
+
+---
+© *CNRS 2023*  
+*This document was created by David Chamont. It is available under the [License Creative Commons - Attribution - No commercial use - Shared under the conditions 4.0 International](http://creativecommons.org/licenses/by-nc-sa/4.0/)*
