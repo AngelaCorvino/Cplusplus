@@ -13,6 +13,7 @@ We propose here a first contact with C++, in its most used version in new physic
 
 - [Compilation steps](ClassRoom/04-compilation.ipynb).
 - [Units and libraries](ClassRoom/05-units.ipynb).
+- [Build tools](ClassRoom/06-make.ipynb).
 
 **Subjective final word**
 
@@ -25,6 +26,7 @@ We have barely scratched the surface of the subject. C++ is a very rich and comp
 * [Learn Cpp](https://www.learncpp.com/)
 * [CoLiRu](http://coliru.stacked-crooked.com/)
 * [Compiler Explorer](https://godbolt.org/)
+
 
 ---
 © *CNRS 2023*  

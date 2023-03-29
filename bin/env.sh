@@ -16,7 +16,7 @@ export PATH="${SCRIPT_DIR}:${PATH}"
 
 alias serve=serve-notebooks.sh
 alias convert=convert-notebooks.sh
-alias clean="rm -rf my_*"
+alias clean="rm -rf my_* src build.*"
 
 # back to the original directory
 
