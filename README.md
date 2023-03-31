@@ -1,7 +1,7 @@
 
 # C++17 for Pythonists
 
-We propose here a first contact with C++, in its most used version in new physics projects : aka C++17. The course is targeted at people who have a minimal programming experience, especially with Python. Beware: This is NOT a course about connecting Python code with C++ code.
+We propose here a first contact with C++, in its most used version in new physics projects : aka C++17. The course is targeted at people who have a minimal programming experience, especially with Python (beware: this is not a course about connecting Python code with C++ code).
 
 **1. Basic data process bricks**
 
@@ -14,6 +14,10 @@ We propose here a first contact with C++, in its most used version in new physic
 - [Compilation steps](ClassRoom/04-compilation.ipynb).
 - [Units and libraries](ClassRoom/05-units.ipynb).
 - [Build tools](ClassRoom/06-make.ipynb).
+
+**3. Homework**
+
+Take the Python code in the `Homework` directory, and translate it to C++. You should try to keep the split in several files, and use `make` or `cmake` so to build the final executable.
 
 **Subjective final word**
 
